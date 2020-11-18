@@ -4,7 +4,7 @@
 #' @param n
 #' @param p
 #'
-#' @return Barplot and table for a binomial simulation
+#' @return Returns Barplot and table for a binomial simulation
 #' @export
 #'
 #' @examples

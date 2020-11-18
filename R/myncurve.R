@@ -4,7 +4,7 @@
 #' @param sigma
 #' @param a
 #'
-#' @return normal curve, probability and shaded area.
+#' @return Returns a normal curve, the probability, and a shaded area.
 #' @export
 #'
 #' @examples

@@ -1,4 +1,4 @@
-#' @title
+#' @title myboot2
 #'
 #' @param iter
 #' @param x
