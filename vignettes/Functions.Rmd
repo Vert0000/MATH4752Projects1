@@ -1,0 +1,51 @@
+---
+title: "Functions"
+author: "Victoria Vertrees"
+date:"`r Sys.Date()`"
+output: 
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction 
+Bellow are four of the functions I have made this semester.
+
+# 1st function
+The mybin function
+```{r first, eval=FALSE}
+MATH4752Projects1::mybin(100,10,0.5)
+```
+
+# 2nd Function
+The myf function.
+```{r second, eval=FALSE}
+x=c(1,2,3)
+MATH4752Projects1::myf(x)
+```
+
+
+# 3rd Function
+The myci function.
+```{r third, eval=FALSE}
+set.seed(23);x = rnorm(30,mean=10,sd=12)
+MATH4752Projects1::myci(x)
+```
+
+
+# 4th Function
+The mycurve function
+```{r forth, eval=FALSE}
+MATH4752Projects1::myncurve(10,5,6)
+```
+
+# Git hub
+
+
+
+
+
